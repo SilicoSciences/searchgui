@@ -171,7 +171,7 @@
             <!-- Resources plugin -->
             <plugin>
                 <artifactId>maven-resources-plugin</artifactId>
-                <version>2.3</version>
+                <version>2.4</version>
                 <executions>
                     <!-- Copy main resources to test resources before testing.  -->
                     <execution>
